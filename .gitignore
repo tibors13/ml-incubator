@@ -1,0 +1,24 @@
+*.java.hsp
+*.sonarj
+*.sw*
+.DS_Store
+
+target
+bin
+*.bak
+
+# Eclipse metadata
+.classpath
+.project
+.settings
+.springBeans
+
+# IDEA metadata and output dirs
+.idea
+*.iml
+*.ipr
+*.iws
+
+# complete output directory
+#xacml-wizard/target/
+
